@@ -160,12 +160,29 @@ An academic Python prototype that combines machine learning and optional LLM ana
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=smruchira&show_icons=true&hide_border=true&rank_icon=github" alt="Ruchira Senevirathne's GitHub contribution statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=smruchira&layout=compact&hide_border=true&langs_count=8" alt="Programming languages used across Ruchira Senevirathne's public GitHub repositories" />
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=smruchira&theme=github_dark"
+  alt="Ruchira Senevirathne's GitHub contribution summary"
+  width="100%"
+/>
+
+<br />
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=smruchira&theme=github_dark"
+  alt="Ruchira Senevirathne's GitHub statistics"
+  height="180"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=smruchira&theme=github_dark"
+  alt="Languages used across Ruchira Senevirathne's GitHub repositories"
+  height="180"
+/>
 
 </div>
 
-> GitHub language statistics describe repository file composition, not overall professional proficiency.
+> Language statistics represent public repository composition and do not measure overall technical proficiency.
 
 ## Professional Interests
 
