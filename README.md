@@ -87,22 +87,6 @@ An academic Python prototype that combines machine learning and optional LLM ana
 
 **Keywords:** insider-threat detection, Python automation, machine learning, LLM analysis, risk scoring, Flask
 
-## Final-Year Research
-
-### Secure-MediNet: SDN-Based Edge Gateway for Behavioral Anomaly Detection in IoMT
-
-A four-member research project supervised by **Kanishka Yapa**.
-
-My responsibilities include:
-
-- Implementing the IoMT environment using Raspberry Pi and ESP32 devices
-- Contributing to the SDN architecture and OpenFlow communication
-- Supporting edge-gateway development
-- Exploring behavioural anomaly detection using HIDS and NIDS data
-- Applying machine-learning methods to identify abnormal device and network activity
-
-**Research areas:** IoMT security, SDN security, OpenFlow, edge computing, intrusion detection, behavioural anomaly detection, machine learning
-
 ## Technical Skills
 
 ### Security
